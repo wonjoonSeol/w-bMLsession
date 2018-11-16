@@ -1,0 +1,4 @@
+[default]
+entity: mlclass
+project: seq2seq-nov5
+base_url: https://api.wandb.ai
